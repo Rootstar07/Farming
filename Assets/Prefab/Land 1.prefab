@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3169266190624150796}
   - component: {fileID: -4179241633200134737}
   m_Layer: 0
-  m_Name: Land
+  m_Name: Land 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: -6007857137893288414, guid: a218e028aa9ee724b9df91810ed886c7,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.21333215, g: 0.26606715, b: 0.9622642, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
